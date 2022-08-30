@@ -1,11 +1,6 @@
 """
 Projeto Final SSC0103 - Programação Orientada a Objetos
 
-12677874 Gabriel Barbosa de Amorim Perão
-12542522 Raphael David Philippe Leveque
-10769809 Pedro Dias Batista
-12681733 Eduardo Barroso Ribeiro Fernandes
-
 TODO: Super Trunfo, o Trunfo das Eleições
 
 O jogo Super Trunfo foi desenvolvido como meio de avaliação da disciplina
