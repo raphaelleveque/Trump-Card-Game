@@ -1,5 +1,7 @@
 # Trunfo
 
+[EN] This project is entirely in Portuguese, It was developed in the Object Oriented Programming discipline. It consists of a famous card game, Trunfo (or Trump in English), with a theme of Brazilian politicians - trying to maintain impartiality, but with a comic touch.
+
 Este projeto foi elaborado na disciplina de Programação Orientada a Objetos. Ele consiste em um jogo de cartas famoso, o Trunfo, com tema de políticos brasileiros - tentando manter a imparcialidade, mas com um toque cômico.
 
 ### Como jogar? 
